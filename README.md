@@ -6,4 +6,4 @@
 
 ## Visualisation Techniques
 The visualisation technique to be used depends upon the variables, no of variables, and information we want to extract from the raw data. Incase of single variable the techniques used are:- 1)Dotchart 2)Barplot 3)Histogram.
-The visualisation technique for multiple variables are:-1)Heat map 2)Boxplot 3)Violin Plot 3)Regression.
+The visualisation technique for multiple variables are:-1)Heat map 2)Boxplot 3)Violin Plot 4)Regression.
