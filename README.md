@@ -9,6 +9,9 @@ The visualisation technique to be used depends upon the variables, no of variabl
 1. Dotchart 
 2. Barplot
 3. Histogram
+
+
+
 The visualisation technique for multiple variables are:-
 1.Heat map
 2. Boxplot
