@@ -5,7 +5,7 @@
  The libraries used here are pandas, numpy, scipy, matplotlib, seaborn.To import random numbers and apply visulisation to them numpy.randm library is used it imports the random values, the number of values we need we have to state in advance.
 
 ## Visualisation Techniques
-The visualisation technique to be used depends upon the variables, no of variables, and information we want to extract from the raw data. Incase of single variable the techniques used are:- 
+The visualisation technique to be used depends upon the variables, number of variables, and information we want to extract from the raw data. Incase of single variable the techniques used are:- 
 1. Dotchart 
 2. Barplot
 3. Histogram
